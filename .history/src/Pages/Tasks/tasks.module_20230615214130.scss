@@ -1,0 +1,18 @@
+.employeeForm{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    >label{
+        width: 400px;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        >input{
+            width: 300px;
+            margin-left: auto;
+
+        }
+    }
+    
+}
